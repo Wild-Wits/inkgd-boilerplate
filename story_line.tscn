@@ -1,0 +1,4 @@
+[gd_scene format=3 uid="uid://ckpuuogdlybk0"]
+
+[node name="StoryLine" type="Label"]
+text = "This is a line of text"
